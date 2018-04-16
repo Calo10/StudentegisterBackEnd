@@ -1,0 +1,11 @@
+c:\users\hpenvy-1\source\repos\RegistroEstudianteBackEnd\RegistroEstudianteBackEnd\bin\Debug\netcoreapp2.0\RegistroEstudianteBackEnd.deps.json
+c:\users\hpenvy-1\source\repos\RegistroEstudianteBackEnd\RegistroEstudianteBackEnd\bin\Debug\netcoreapp2.0\RegistroEstudianteBackEnd.runtimeconfig.json
+c:\users\hpenvy-1\source\repos\RegistroEstudianteBackEnd\RegistroEstudianteBackEnd\bin\Debug\netcoreapp2.0\RegistroEstudianteBackEnd.runtimeconfig.dev.json
+c:\users\hpenvy-1\source\repos\RegistroEstudianteBackEnd\RegistroEstudianteBackEnd\bin\Debug\netcoreapp2.0\RegistroEstudianteBackEnd.dll
+c:\users\hpenvy-1\source\repos\RegistroEstudianteBackEnd\RegistroEstudianteBackEnd\bin\Debug\netcoreapp2.0\RegistroEstudianteBackEnd.pdb
+c:\users\hpenvy-1\source\repos\RegistroEstudianteBackEnd\RegistroEstudianteBackEnd\obj\Debug\netcoreapp2.0\RegistroEstudianteBackEnd.csprojResolveAssemblyReference.cache
+c:\users\hpenvy-1\source\repos\RegistroEstudianteBackEnd\RegistroEstudianteBackEnd\obj\Debug\netcoreapp2.0\RegistroEstudianteBackEnd.csproj.CoreCompileInputs.cache
+c:\users\hpenvy-1\source\repos\RegistroEstudianteBackEnd\RegistroEstudianteBackEnd\obj\Debug\netcoreapp2.0\RegistroEstudianteBackEnd.AssemblyInfoInputs.cache
+c:\users\hpenvy-1\source\repos\RegistroEstudianteBackEnd\RegistroEstudianteBackEnd\obj\Debug\netcoreapp2.0\RegistroEstudianteBackEnd.AssemblyInfo.cs
+c:\users\hpenvy-1\source\repos\RegistroEstudianteBackEnd\RegistroEstudianteBackEnd\obj\Debug\netcoreapp2.0\RegistroEstudianteBackEnd.dll
+c:\users\hpenvy-1\source\repos\RegistroEstudianteBackEnd\RegistroEstudianteBackEnd\obj\Debug\netcoreapp2.0\RegistroEstudianteBackEnd.pdb
